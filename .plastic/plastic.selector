@@ -1,0 +1,4 @@
+repository "My lianxi lp@tj_ezio255@cloud.cn"
+  path "/"
+    br "/main"
+    co "/main"
